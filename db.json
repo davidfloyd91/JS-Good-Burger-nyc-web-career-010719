@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,72 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "lol",
+      "description": "meatly",
+      "image": "https://picsum.photos/458/354?random&time=1551377311374",
+      "id": 12
+    },
+    {
+      "name": "whee",
+      "description": "such meat",
+      "image": "https://picsum.photos/458/354?random&time=1551377531383",
+      "id": 13
+    },
+    {
+      "name": "oh jeez",
+      "description": "it's a meat cookie",
+      "image": "https://picsum.photos/458/354?random&time=1551377531383",
+      "id": 14
+    },
+    {
+      "name": "testburger",
+      "description": "just to test, do not eat, it is very harmful",
+      "image": "https://picsum.photos/458/354?random&time=1551377651298",
+      "id": 15
+    },
+    {
+      "name": "supersupersupersupersupersuperburger",
+      "description": "maybe good job",
+      "image": "https://picsum.photos/458/354?random&time=1551377730854",
+      "id": 16
+    },
+    {
+      "name": "such a buger",
+      "description": "seriously burglish",
+      "image": "https://picsum.photos/458/354?random&time=1551377791335",
+      "id": 17
+    },
+    {
+      "name": "whoooooooo",
+      "description": "borgarrr",
+      "image": "https://picsum.photos/458/354?random&time=1551378141302",
+      "id": 18
+    },
+    {
+      "name": "squimsquim",
+      "description": "ok?",
+      "image": "https://picsum.photos/458/354?random&time=1551378225857",
+      "id": 19
+    },
+    {
+      "name": "wow",
+      "description": "wow",
+      "image": "https://picsum.photos/458/354?random&time=1551378311394",
+      "id": 20
+    },
+    {
+      "name": "oh no",
+      "description": "nonono god no",
+      "image": "https://picsum.photos/458/354?random&time=1551378411392",
+      "id": 21
+    },
+    {
+      "name": "please help",
+      "description": "i'm so afraid",
+      "image": "https://picsum.photos/458/354?random&time=1551378471428",
+      "id": 22
     }
   ]
 }
